@@ -1,0 +1,51 @@
+
+html {
+    background: #334;
+    color: #ddccaa;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: #afaa99;
+}
+
+.centre {
+    padding: 5% 5%;
+    max-width: 600px;
+    padding-left: auto;
+    margin: 0;
+}
+
+.centrebg {
+    background: #292939;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button {
+    background: #556;
+    color: #fda;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background: #667;
+    color: #fda;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button:active {
+    background: #987;
+    color: #fda;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+}
+
