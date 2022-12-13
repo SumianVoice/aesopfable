@@ -12,6 +12,11 @@ p {
     color: #afaa99;
 }
 
+a {
+    color: #ffdd99;
+    text-decoration: none;
+}
+
 .centre {
     padding: 5% 5%;
     max-width: 600px;
